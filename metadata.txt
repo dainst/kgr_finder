@@ -6,7 +6,7 @@
 name=KGR Finder
 qgisMinimumVersion=3.0
 description=By simply drawing polygons or clicking on existing polygons, this extension makes it possible to download data from Open Street Map (OSM) or the iDAI.gazetteer and display it on the map, including all existing attributes. The plugin is designed so that other services can also be easily integrated in the future.
-version=0.2
+version=0.3
 author=German Archaeological Institute, csgis GbR.
 email=toni.schoenbuchner@csgis.de
 
@@ -29,7 +29,7 @@ homepage=https://github.com/dainst/kgr_finder
 category=Plugins
 icon=assets/greif.png
 # experimental flag
-experimental=True
+experimental=False
 
 # deprecated flag (applies to the whole plugin, not just a single version)
 deprecated=False
